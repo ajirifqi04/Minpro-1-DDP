@@ -69,3 +69,25 @@ D. ) Menu 4: Keluar
 
 •	Proses program selesai.
 
+
+
+
+
+**Penjelasan Output Program**
+
+Berikut kondisi jika pengguna memilih menu 1 :
+
+<img width="689" height="259" alt="Kondisi Pilihan 1" src="https://github.com/user-attachments/assets/9a3e2440-9818-4bd1-ab91-1880f48259fa" />
+
+Berikut kondisi jika pengguna memilih menu 2 :
+
+<img width="689" height="122" alt="Kondisi Pilihan 2" src="https://github.com/user-attachments/assets/05aa1609-4bd3-4687-b68a-6be0d2a4eaad" />
+
+Berikut kondisi jika pengguna memilih menu 3 : 
+
+<img width="686" height="122" alt="Kondisi Pilihan 3" src="https://github.com/user-attachments/assets/9729c788-da03-4391-b475-3e88dbf7fe33" />
+
+Berikut kondisi jika pengguna memilih menu 4 :
+
+<img width="687" height="58" alt="Kondisi Pilihan 4" src="https://github.com/user-attachments/assets/6f00f95c-f5dd-4fef-9462-2666485e9540" />
+
